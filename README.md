@@ -1,5 +1,5 @@
 <h1 style="font-family:verdana;">Hi there, I’m Renata! 👋</h1>
-I hold a Bachelor’s degree in Business Management and have 16 years of experience in Supply Chain Management. My passion for technology has led me to explore the exciting world of data analysis.
+I hold a Bachelor’s degree in Business Management and have 16 years of experience in Supply Chain Management. <br>My passion for technology has led me to explore the exciting world of data analysis.
 
 <br> 🌟 <b>Skills & Interests:</b>
 <br>Data Analysis: Enthusiastic about turning data into actionable insights.
